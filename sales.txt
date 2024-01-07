@@ -1,0 +1,2 @@
+skl,482,5 Star,10,Sun Jan  7 18:58:16 2024,50
+skl,482,Milky Bar,10,Sun Jan  7 18:58:16 2024,50
